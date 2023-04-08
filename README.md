@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: April 03, 2023</p>
+<p>Last updated: April 08, 2023</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/" target="_blank">TermsFeed Privacy Policy Generator</a>.</p>
 <h1>Interpretation and Definitions</h1>
@@ -119,6 +119,8 @@
 </ul>
 <h2>Security of Your Personal Data</h2>
 <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
+<h1>Google AdMob</h1>
+<p>Google AdMob is used for the advertisements displayed in the application. For information about what potential data AdMob might collect, consult Google's privacy policy.</p>
 <h1>Children's Privacy</h1>
 <p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
 <p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
